@@ -21,3 +21,4 @@
 
 ```math
 \ce{$\&#117;nicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 1.0; background: url('https://media.tenor.com/tS4120QBuugAAAAi/frog-spin-frog.gif?raw=true');]{x0000}$}
+```

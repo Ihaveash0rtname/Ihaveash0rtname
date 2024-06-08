@@ -2,7 +2,6 @@
 
 # Skills
 - Programming
-- Modeling
 - Visual Effects
 
 # Statistics
